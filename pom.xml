@@ -16,11 +16,38 @@
 
 
     <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-context</artifactId>-->
+<!--            <version>5.3.31</version>-->
+<!--        </dependency>-->
+
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>5.3.31</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+            <version>2.7.18</version>
         </dependency>
+
+<!--        JCL框架-->
+<!--        <dependency>-->
+<!--            <groupId>commons-logging</groupId>-->
+<!--            <artifactId>commons-logging</artifactId>-->
+<!--            <version>1.3.0</version>-->
+<!--        </dependency>-->
+
+        <!--spring jcl框架-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-jcl</artifactId>-->
+<!--            <version>5.3.31</version>-->
+<!--        </dependency>-->
+
+<!--        log4j桥接器-->
+<!--        <dependency>-->
+<!--            <groupId>org.apache.logging.log4j</groupId>-->
+<!--            <artifactId>log4j-to-slf4j</artifactId>-->
+<!--            <version>2.17.2</version>-->
+<!--        </dependency>-->
     </dependencies>
 
 </project>
